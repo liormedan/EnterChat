@@ -1,0 +1,15 @@
+:root {
+  --enter-primary: #0066FF; /* Example Enter Blue */
+  --enter-secondary: #0044AA;
+  --enter-accent: #00CCFF;
+  --sidebar-bg: #1A1D21; /* Slack-like dark sidebar */
+  --sidebar-hover: #35373B;
+  --sidebar-active: #1164A3;
+  --sidebar-text: #B9BBBE;
+  --sidebar-text-active: #FFFFFF;
+}
+
+.dark {
+  --background: #1A1D21;
+  --foreground: #D1D2D3;
+}
